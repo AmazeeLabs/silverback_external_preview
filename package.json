@@ -1,0 +1,12 @@
+{
+  "name": "@-amazeelabs/silverback_external_preview",
+  "version": "1.1.0",
+  "author": "Amazee Labs <development@amazeelabs.com>",
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://localhost:4873",
+    "repository": "git@github.com:AmazeeLabs/silverback_external_preview.git",
+    "branch": "main"
+  },
+  "gitHead": "b15706d0660ef05ab2920ef5497638343549082c"
+}
