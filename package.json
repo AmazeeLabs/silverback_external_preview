@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_external_preview",
-  "version": "1.1.12",
+  "version": "1.2.0",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
     "access": "public",
@@ -14,5 +14,5 @@
   "scripts": {
     "version": "sync-composer-version"
   },
-  "gitHead": "cd62beb342571d4c37a601d997b33959b58ba39b"
+  "gitHead": "594bb80a45092620210ac133c81162a93dd50fe9"
 }
